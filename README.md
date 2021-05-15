@@ -18,4 +18,11 @@ For more detailed information about the model, you can refer to our paper.
 <img width="463" alt="Graph9" src="https://user-images.githubusercontent.com/84003397/118348633-3daa2680-b57e-11eb-85f0-114229409312.png">
 
 # Data
-To run the code, you need to download the time series data from my Github link
+I'm sorry that the data can not be shared by the Google Drive because Google was banned in China.
+
+To run the code, you need to download the time series data from the following link.
+
+https://pan.baidu.com/s/1P0KFcOUlHmdanuewOOnIkA   code:wnie
+
+Note: Before we issue the statement of disclosure, this dataset should only be used for the verification of our work.
+
