@@ -24,5 +24,7 @@ To run the code, you need to download the time series data from the following li
 
 https://pan.baidu.com/s/1P0KFcOUlHmdanuewOOnIkA   code:wnie
 
+I'm sorry that the ADS-B data cannot be shared because of the confidentiality issues.
+
 Note: Before we issue the statement of disclosure, this dataset should only be used for the verification of our work.
 
