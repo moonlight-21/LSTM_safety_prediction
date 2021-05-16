@@ -3,7 +3,7 @@ Research on Safety Prediction of Sector Traffic Operation Based on Deep Learning
 For Flight Conflicts Prediction
 
 # Prologue
-The average error of 10 trails shows that LSTM model with traffic parameters works better than LSTM model without traffic parameters. Then, we issue a comprehensive analysis of the relative predictive power of each of traffic parameters. The results illustrate that volume is the most important factor in promoting prediction accuracy and density has an advantage of improvement in the aspect of model stability.
+We have verified the LSTM model does have the greatest prediction effect with comparison to other models. Next, in order to achieve the potential improvements for model performance and issue a comprehensive analysis of the relative predictive power of traffic parameter, the average error of 10 trails shows that LSTM model with traffic parameters works better than LSTM model without traffic parameters, which embodied in the prediction accuracy and model stability.
 
 # Environment
 
